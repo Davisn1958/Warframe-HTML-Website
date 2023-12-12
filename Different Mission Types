@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang='en'>
+  <head>
+	<meta charset='UTF-8'>
+	<title> Different Mission types</title>
+  </head>
+  <body>
+  <h1>There are currently 21 different types of missions in Warframe some may scale from having to kill enemies to finish the mission or having to defend something</h1>
+  <a href="C:\Users\damar\OneDrive\Desktop\HTML\Warframes\Get started playing warframe.html">Warframe Intro</a>
+	<a href="C:\Users\damar\OneDrive\Desktop\HTML\Warframes\how to obtain different warframes.html">Different Warframes</a> 
+	<a href="C:\Users\damar\OneDrive\Desktop\HTML\Different Mission Types.html">Different Missions</a>
+	<a href="C:\Users\damar\OneDrive\Desktop\HTML\Operator\Obtaining Operator.html">Obtain Operator</a>
+	<a href="C:\Users\damar\OneDrive\Desktop\HTML\Operator\Operator Abilities.html">Operator Abilities</a>
+	<a href="C:\Users\damar\OneDrive\Desktop\HTML\Operator\Operator Weapons.html">Operator Weapons</a>
+  <ol>
+	<li>Defense</li>
+		<p>This is an Endless Mission type and the player has to defend the primary objective you will obtain a reward after every 5 waves and you'll have to option to Leave or Stay</p>
+	<img src="https://static.wikia.nocookie.net/warframe/images/6/66/Defense.png/revision/latest?cb=20160327203816" alt="Defense"
+	style="width:500px;height:500px;length:100px;">
+	
+	<li>Survival</li>
+		<p>This is another endless mission type and the player will have will have to fight an endless stream of enemies while slowly loseing life support</p>
+	<img src="https://static.wikia.nocookie.net/warframe/images/6/60/Survival.png/revision/latest?cb=20190819044616" alt="Survival">
+	
+	<li>Exterminate</li>
+		<p>This mission will have the player kill a certain amount of enemies in the mission before having to extract</p>
+	<img src="https://vignette.wikia.nocookie.net/warframe/images/0/07/-WARFRAME_Exterminate_(Corpus).png/revision/latest/scale-to-width-down/640?cb=20140902113545&path-prefix=it" alt="Exterminate">
+	
+	<li>Capture</li>
+		<P>The Player will be tasked to find a person fo interest and bring him to extraction</p>
+	<img src="https://static.wikia.nocookie.net/warframe/images/5/5c/CaptureSplash.png/revision/latest/scale-to-width-down/1000?cb=20160327204333" alt="Capture"
+	style="width:500px;height:500px;length:150px;">
