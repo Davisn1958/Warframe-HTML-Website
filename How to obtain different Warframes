@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang='en'>
+  <head>
+	<meta charset='UTF-8'>
+	<title> How to Obtain Different Warframes</title>
+  </head>
+  <body>
+  <style>
+  table, th, td {
+	border:1px solid black;
+}
+</style>
+<h1>Obtain Different Warframes</h1>
+<a href="C:\Users\damar\OneDrive\Desktop\HTML\Warframes\Get started playing warframe.html">Warframe Intro</a>
+	<a href="C:\Users\damar\OneDrive\Desktop\HTML\Warframes\how to obtain different warframes.html">Different Warframes</a> 
+	<a href="C:\Users\damar\OneDrive\Desktop\HTML\Different Mission Types.html">Different Missions</a>
+	<a href="C:\Users\damar\OneDrive\Desktop\HTML\Operator\Obtaining Operator.html">Obtain Operator</a>
+	<a href="C:\Users\damar\OneDrive\Desktop\HTML\Operator\Operator Abilities.html">Operator Abilities</a>
+	<a href="C:\Users\damar\OneDrive\Desktop\HTML\Operator\Operator Weapons.html">Operator Weapons</a>
+<table style="width:30%">
+	<tr>
+		<th>Planet</th>
+		<th>Warframe</th>
+	</tr>
+	<tr>
+		<td>Earth</td>
+		<td>Hydroid</td>
+	</tr>
+	<tr>
+		<td>Venus</td>
+		<td>Rhino</td>
+	</tr>
+	<tr>
+		<td>Venus</td>
+		<td>Hildryn</td>
+	</tr>
+	<tr>
+		<td>Mars</td>
+		<td>Excalibur</td>
+	</tr>
+	<tr>
+		<td>Phobos</td>
+		<td>Mag</td>
+	</tr>
+	<tr>
+		<td>Deimos</td>
+		<td>Xaku</td>
+	</tr>
+	<tr>
+		<td>Deimos</td>
+		<td>Lavos</td>
+	</tr>
+	<tr>
+		<td>Deimos</td>
+		<td>Nekros</td>
+	</tr>
+	<tr>
+		<td>Ceres</td>
+		<td>Frost</td>
+	</tr>
+	<tr>
+		<td>Jupiter</td>
+		<td>Valkyr</td>
+	</tr>
+	<tr>
+		<td>Jupiter</td>
+		<td>Wisp</td>
+	</tr>
+	<tr>
+		<td>Saturn</td>
+		<td>Ember</td>
+	</tr>
+	<tr>
+		<td>Uranus</td>
+		<td>Equinox</td>
+	</tr>
+	<tr>
+		<td>Neptune</td>
+		<td>Loki</td>
+	</tr>
+	<tr>
+		<td>Pluto</td>
+		<td>Trinity</td>
+	</tr>
+	<tr>
+		<td>Eris</td>
+		<td>Nidus</td>
+	</tr>
+	<tr>
+		<td>Sedna</td>
+		<td>Saryn</td>
+	</tr>
+	</table>
+	<p Style="color:Gold;"> You can also Obtain Warframes from running relic missions with other people and Obtain Prime Warframe parts to Build</p>
