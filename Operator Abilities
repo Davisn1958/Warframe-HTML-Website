@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang='en'>
+  <head>
+	<meta charset='UTF-8'>
+	<title>Operator Abilities</title>
+  </head>
+  <body>
+  <h1>different abilities Your Operator can obtain</h1>
+  <a href="C:\Users\damar\OneDrive\Desktop\HTML\Warframes\Get started playing warframe.html">Warframe Intro</a>
+	<a href="C:\Users\damar\OneDrive\Desktop\HTML\Warframes\how to obtain different warframes.html">Different Warframes</a> 
+	<a href="C:\Users\damar\OneDrive\Desktop\HTML\Different Mission Types.html">Different Missions</a>
+	<a href="C:\Users\damar\OneDrive\Desktop\HTML\Operator\Obtaining Operator.html">Obtain Operator</a>
+	<a href="C:\Users\damar\OneDrive\Desktop\HTML\Operator\Operator Abilities.html">Operator Abilities</a>
+	<a href="C:\Users\damar\OneDrive\Desktop\HTML\Operator\Operator Weapons.html">Operator Weapons</a>
+  <p>There are 5 focus schools you can choose from when completeing the second dream quest</p>
+  <ol>
+  	<li>Madurai</li>
+	<li>Vazarin</li>
+	<li>Naramon</li>
+	<li>Unairu</li>
+	<li>Zenurik</li>
+  </ol>
+<p Style="color:Cyan;"> The path of Madurai is the school dedicated to Offense, this school also improves the damage output of both The operator and warframe</p>
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/dce3647b-6179-463c-b4c8-bd642f5bb216/da4blfe-f3e506d9-a1ef-4bbf-9466-faf526ea5fea.png/v1/fill/w_1192,h_670,q_75,strp/warframe_focus_wallpaper___madurai_black_by_kaminohunter-da4blfe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl0sIm9iaiI6W1t7InBhdGgiOiIvZi9kY2UzNjQ3Yi02MTc5LTQ2M2MtYjRjOC1iZDY0MmY1YmIyMTYvZGE0YmxmZS1mM2U1MDZkOS1hMWVmLTRiYmYtOTQ2Ni1mYWY1MjZlYTVmZWEucG5nIiwid2lkdGgiOiI8PTExOTIiLCJoZWlnaHQiOiI8PTY3MCJ9XV19.088-XnWZy5V45zJiXwzR-l9LnoW5G5zQCknyOIA9nsM"
+style="width:500px;height:500px;length:100px;">
+<p style="color:Blue;"> The path of Vazarin is the school for thw protectors</p>
+<img src="https://th.bing.com/th/id/OIP.i81T-OpfbGlest4fp0riZgHaEK?rs=1&pid=ImgDetMain">
+<p style="color:Orange;"> The Path of the Naramon is a school focused on the art of assult the school excels in direct combat to both dominate and neutralize armed enemies</p>
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/dce3647b-6179-463c-b4c8-bd642f5bb216/da4bjhj-3be36011-399c-4093-8783-efecd12dc233.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGgiOiIvZi9kY2UzNjQ3Yi02MTc5LTQ2M2MtYjRjOC1iZDY0MmY1YmIyMTYvZGE0Ympoai0zYmUzNjAxMS0zOTljLTQwOTMtODc4My1lZmVjZDEyZGMyMzMucG5nIn1dXX0.M5KZP5zwGT0E6z4nqycj82Xh20n2-B3FFx-z9tJ5nzU"
+style="width:500px;height:500px;length:100px;">
+<p style="color:Gold;"> The Path of Unairu is a school that trainsyou to become an indomitable solder, it provides the frontline with unmatched tenacity.</p>
+<img src="https://warframeblog.com/wp-content/uploads/2017/12/warframe_focus_wallpaper___unairu.jpg"
+style="width:500px;height:500px;length:100px;">
+<p style="color:MediumSpringGreen;"> The path of Zenurik is a schoo; dedicated to the arcanes,The Tenno on the path of Zenurik are formidable in the art of enemy attrition and battlefield control.</p>
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/dce3647b-6179-463c-b4c8-bd642f5bb216/da4bkae-5996d480-1971-4e36-a493-0f497e99b1eb.png/v1/fill/w_1192,h_670,q_70,strp/warframe_focus_wallpaper___zenurik_black_by_kaminohunter_da4bkae-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MCIsInBhdGgiOiJcL2ZcL2RjZTM2NDdiLTYxNzktNDYzYy1iNGM4LWJkNjQyZjViYjIxNlwvZGE0YmthZS01OTk2ZDQ4MC0xOTcxLTRlMzYtYTQ5My0wZjQ5N2U5OWIxZWIucG5nIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.KmcHKjbeVbY-u7p7ebG69pPmPEOwLUFwUsjLcdIJR1I"
+style="width:500px;height:500px;length:100px;">
